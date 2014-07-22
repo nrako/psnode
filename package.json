@@ -1,0 +1,21 @@
+{
+  "name": "psnode",
+  "version": "0.0.1",
+  "description": "A process utility for OSX and Windows",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/nrako/psnode.git"
+  },
+  "keywords": [
+    "ps",
+    "process",
+    "pid",
+    "tasklist",
+    "kill",
+    "taskkill"
+  ],
+  "dependencies": {
+    "csv": "^0.4.0"
+  }
+}
